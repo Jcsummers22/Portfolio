@@ -1,4 +1,4 @@
-# wdPortfolio
+#Portfolio
 
 One Page Web Developer Portfolio template
 
